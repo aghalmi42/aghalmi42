@@ -1,16 +1,22 @@
-## Hi there 👋
+```zsh
+> Devfetch
+```
+<!-- <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" /> -->
+<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/b9d6ab2a1c05fbd4ccaf26cd5f74e089/aghalmi.jpg" width="228" height="228" />
 
-<!--
-**aghalmi42/aghalmi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zig
+aghalmi@student.42.fr
+-----------------------
+👤 User: Mirou
+🖥️ OS: Ubuntu
+🐚 Shell: zsh
+💻 Language: C
+⏱️ Currently: student
+🌐 Location: Paris, FR
+💬 Discord: amir2lt
+🏫 School: 42
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="oui", src="https://www.colorhexa.com/9b9b9b.png" width="25" height="20" /><img alt="oui", src="https://www.colorhexa.com/2e2e2e.png" width="25" height="20" /><img alt="oui", src="https://www.colorhexa.com/ebebea.png" width="25" height="20" /><img alt="oui", src="https://www.colorhexa.com/4c4c4c.png" width="25" height="20" /><img alt="oui", src="https://www.colorhexa.com/0c0c0c.png" width="25" height="20" />
+</p>
