@@ -10,7 +10,7 @@ aghalmi@student.42.fr
 👤 User: Mirou
 🖥️ OS: Ubuntu
 🐚 Shell: zsh
-💻 Language: C JS, HTML, CSS
+💻 Language: C - JS - HTML - CSS
 ⏱️ Currently: student
 🌐 Location: Paris, FR
 💬 Discord: amir2lt
