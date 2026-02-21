@@ -2,7 +2,7 @@
 > Devfetch
 ```
 <!-- <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" /> -->
-<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/b9d6ab2a1c05fbd4ccaf26cd5f74e089/aghalmi.jpg" width="228" height="228" />
+<img align="left" alt="oui" src="https://images6.alphacoders.com/140/thumb-1920-1402108.png" width="480" height="480" />
 
 ```zig
 aghalmi@student.42.fr
