@@ -10,7 +10,8 @@ aghalmi@student.42.fr
 👤 User: Mirou
 🖥️ OS: Ubuntu
 🐚 Shell: zsh
-💻 Language: C - C++ - JS - HTML - CSS
+💻 Programming Languages: Python, C, C++, TypeScript, JavaScript
+💻 Web Frameworks & Libraries: React, Node.js, NestJS, Next.js, TailwindCSS
 ⏱️ Currently: student
 🌐 Location: Paris, FR
 💬 Discord: amir2lt
